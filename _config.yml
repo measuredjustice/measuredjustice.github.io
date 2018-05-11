@@ -1,7 +1,8 @@
 # Site settings
 title: Measured Justice
 email: site@measuredjustice.org
-description: > Measured Justice uses systematic approaches, including mapping, to evaluating the law and other systems of rules.
+description: > 
+Measured Justice uses systematic approaches, including mapping, to evaluating the law and other systems of rules.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.measuredjustice.org" # the base hostname & protocol for your site
 twitter_username: @MeasuredJ
