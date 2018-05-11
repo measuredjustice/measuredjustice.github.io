@@ -1,11 +1,11 @@
 # Site settings
 title: Measured Justice
 email: site@measuredjustice.org
-description: > 
+description: >
   Measured Justice uses systematic approaches, including mapping, to evaluating the law and other systems of rules.
 baseurl: ""
 url: "https://www.measuredjustice.org"
-twitter_username: @MeasuredJ
+twitter_username: MeasuredJ
 
 # Build settings
 markdown: kramdown
