@@ -6,3 +6,6 @@ Measured Justice uses systematic approaches, including mapping, to evaluating th
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.measuredjustice.org" # the base hostname & protocol for your site
 twitter_username: @MeasuredJ
+
+# Build settings
+markdown: kramdown
